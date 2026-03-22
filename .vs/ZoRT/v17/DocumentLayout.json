@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\aabb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\aabb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\perlin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\perlin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\rtw_stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\rtw_stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\external\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\external\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\bvh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\bvh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\aabb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\aabb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,18 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\interval.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\sphere.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\hittable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|solutionrelative:ZoRT\\material.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{442D0615-B192-435C-B3FC-3F9E585484CC}|ZoRT\\ZoRT.vcxproj|C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -62,11 +78,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "perlin.h",
+              "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\perlin.h",
+              "RelativeDocumentMoniker": "ZoRT\\perlin.h",
+              "ToolTip": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\perlin.h",
+              "RelativeToolTip": "ZoRT\\perlin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T15:37:34.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "stb_image.h",
+              "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\external\\stb_image.h",
+              "RelativeDocumentMoniker": "ZoRT\\external\\stb_image.h",
+              "ToolTip": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\external\\stb_image.h",
+              "RelativeToolTip": "ZoRT\\external\\stb_image.h",
+              "ViewState": "AgIAAGkfAAAAAAAAAAAuwKUfAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T15:28:05.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rtw_stb_image.h",
+              "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\rtw_stb_image.h",
+              "RelativeDocumentMoniker": "ZoRT\\rtw_stb_image.h",
+              "ToolTip": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\rtw_stb_image.h",
+              "RelativeToolTip": "ZoRT\\rtw_stb_image.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T15:24:09.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "texture.h",
+              "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\texture.h",
+              "RelativeDocumentMoniker": "ZoRT\\texture.h",
+              "ToolTip": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\texture.h",
+              "RelativeToolTip": "ZoRT\\texture.h",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-22T15:15:08.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "bvh.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\bvh.h",
               "RelativeDocumentMoniker": "ZoRT\\bvh.h",
@@ -79,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "aabb.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\aabb.h",
               "RelativeDocumentMoniker": "ZoRT\\aabb.h",
@@ -92,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "interval.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\interval.h",
               "RelativeDocumentMoniker": "ZoRT\\interval.h",
@@ -100,12 +168,11 @@
               "RelativeToolTip": "ZoRT\\interval.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-21T20:01:34.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T20:01:34.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "camera.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\camera.h",
               "RelativeDocumentMoniker": "ZoRT\\camera.h",
@@ -113,12 +180,11 @@
               "RelativeToolTip": "ZoRT\\camera.h",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAGkAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-21T19:55:34.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T19:55:34.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "common.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\common.h",
               "RelativeDocumentMoniker": "ZoRT\\common.h",
@@ -126,12 +192,11 @@
               "RelativeToolTip": "ZoRT\\common.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-21T19:18:17.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T19:18:17.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "hittable_list.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\hittable_list.h",
               "RelativeDocumentMoniker": "ZoRT\\hittable_list.h",
@@ -139,18 +204,17 @@
               "RelativeToolTip": "ZoRT\\hittable_list.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-21T19:17:24.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T19:17:24.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "sphere.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\sphere.h",
               "RelativeDocumentMoniker": "ZoRT\\sphere.h",
               "ToolTip": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\sphere.h",
               "RelativeToolTip": "ZoRT\\sphere.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-21T19:16:12.854Z",
               "EditorCaption": ""
@@ -163,14 +227,14 @@
               "RelativeDocumentMoniker": "ZoRT\\hittable.h",
               "ToolTip": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\hittable.h",
               "RelativeToolTip": "ZoRT\\hittable.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-21T19:15:10.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ray.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\ray.h",
               "RelativeDocumentMoniker": "ZoRT\\ray.h",
@@ -178,12 +242,11 @@
               "RelativeToolTip": "ZoRT\\ray.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-21T19:02:26.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T19:02:26.784Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "color.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\color.h",
               "RelativeDocumentMoniker": "ZoRT\\color.h",
@@ -195,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "vec3.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\vec3.h",
               "RelativeDocumentMoniker": "ZoRT\\vec3.h",
@@ -203,8 +266,7 @@
               "RelativeToolTip": "ZoRT\\vec3.h",
               "ViewState": "AgIAAFcAAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-21T18:59:50.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-21T18:59:50.066Z"
             },
             {
               "$type": "Document",
@@ -214,20 +276,20 @@
               "RelativeDocumentMoniker": "ZoRT\\main.cpp",
               "ToolTip": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\main.cpp",
               "RelativeToolTip": "ZoRT\\main.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwH4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-21T18:53:40.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "material.h",
               "DocumentMoniker": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\material.h",
               "RelativeDocumentMoniker": "ZoRT\\material.h",
               "ToolTip": "C:\\Users\\young\\Desktop\\ZoRT\\ZoRT\\ZoRT\\material.h",
               "RelativeToolTip": "ZoRT\\material.h",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAE0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-22T00:56:51.83Z",
               "EditorCaption": ""
